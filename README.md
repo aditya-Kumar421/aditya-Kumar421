@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋, folks! I'm </h1>
 
-<div align="center">
+<div>
 <p>
 <div align="center">
 <img height="40px" src="https://img.shields.io/badge/-Aditya-61DAFB?&style=for-the-badge&logoWidth=50"/>
