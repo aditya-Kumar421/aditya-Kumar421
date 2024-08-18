@@ -4,8 +4,8 @@
 
 <div align="center">
   <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
-  <img height="40px" src="https://img.shields.io/badge/-ANSHUMAN-333d7a?&style=for-the-badge&logoWidth=50" />
-  <img height="40px" src="https://img.shields.io/badge/-NANDAN-faebee?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-ADITYA-333d7a?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-KUMAR-faebee?&style=for-the-badge&logoWidth=50" />
 
   <br>
 
