@@ -74,8 +74,8 @@ me.say_hi()
 </h3>
 
 ![image](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/mongo-%2307405e.svg?&style=for-the-badge&logo=mongo&logoColor=white)
 ![image](https://img.shields.io/badge/mysql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 
 <h3 align="center">
   <img height="25px" src="https://img.shields.io/badge/-CI/CD and Cloud Services-faebee?&style=for-the-badge&logoWidth=50" />
