@@ -64,7 +64,7 @@ me.say_hi()
   <img height="25px" src="https://img.shields.io/badge/- Frameworks-faebee?&style=for-the-badge&logoWidth=50" />
 </h3>
 
-![image](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/fastapi-%23092E20.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![image](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![image](https://img.shields.io/badge/react-109989?style=for-the-badge&logo=REACT&logoColor=white)
 ![image](https://img.shields.io/badge/tailwind-%2378c7d1.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -82,7 +82,7 @@ me.say_hi()
 </h3>
 
 ![image](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![image](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
 ![image](https://img.shields.io/badge/render-0089D6?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
