@@ -82,7 +82,7 @@ me.say_hi()
 </h3>
 
 ![image](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)
+![image](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![image](https://img.shields.io/badge/render-0089D6?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
